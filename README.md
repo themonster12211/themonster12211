@@ -12,6 +12,6 @@
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=themonster12211&style=flat-square&color=blue" alt=""/>
   <h1>
-  Bienvenidos al Github de "El Monstro"
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Are you enjoying my Github? Start a new repo... you'll love this next pull request😏
+  
 </h1>
