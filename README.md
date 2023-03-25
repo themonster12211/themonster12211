@@ -12,7 +12,7 @@
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=themonster12211&style=flat-square&color=blue" alt=""/>
   <h1>
-  Are you enjoying my Github? Start a new repo... you'll love this next pull request😏
+  Greetings, welcome to my Github
   </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
