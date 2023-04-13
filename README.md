@@ -12,5 +12,4 @@
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=themonster12211&style=flat-square&color=blue" alt=""/>
   <h1>
-  - Cybersecurity major at the University of Texas at San Antonio.
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-escobar-0aa9551b8/)
+  
