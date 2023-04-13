@@ -12,17 +12,5 @@
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=themonster12211&style=flat-square&color=blue" alt=""/>
   <h1>
-  Greetings, welcome to my Github
-  </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-  
-  
-  
-  
-
   - Cybersecurity major at the University of Texas at San Antonio.
-
- 
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-escobar-0aa9551b8/)
